@@ -1,1 +1,2 @@
-I'd like to fuck mandy  
+Git is a distributed version control system.
+Git is free software.
